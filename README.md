@@ -12,11 +12,11 @@ I love learning new languages even though I might not be good at it but always w
 
 ## Hobbies
 
-1 Pair Programming
-2 Soccer
-3 Gardening
-4 Tennis
-5 Basketball
+1. Pair Programming
+2. Soccer
+3. Gardening
+4. Tennis
+5. Basketball
 
 
 ## Pictures
